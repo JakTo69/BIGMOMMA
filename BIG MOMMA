@@ -34,6 +34,12 @@ BIG MOMMA PRODUCER WEBSITE
 </audio>
 <audio controls="controls">
 <source src="1805.wav" type="audio/wav">
+  <audio controls="controls">
+<source src="1311.wav" type="audio/wav">
+</audio>
+  <audio controls="controls">
+<source src="0602.wav" type="audio/wav">
+</audio>
 </audio>
 </header>
 </span>
